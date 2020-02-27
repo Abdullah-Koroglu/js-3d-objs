@@ -2,6 +2,8 @@
   text-align: center;
 }
 
+.body { margin: 0; }
+.canvas { display: block; }
 .App-logo {
   height: 40vmin;
   pointer-events: none;
